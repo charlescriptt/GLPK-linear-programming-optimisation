@@ -1,0 +1,1 @@
+To run this program the latest verison of glpk is needed for java, and must be imported as runnable jar files.
